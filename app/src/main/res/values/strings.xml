@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">ListTypes</string>
+    <string name="listview_stringarray">ListView - StringArray</string>
+    <string name="listview_class">ListView - Class</string>
+    <string name="listview_database">ListView - Database</string>
+
+    <string-array name="types_array">
+        <item>ListView - StringArray</item>
+        <item>ListView - Class</item>
+        <item>ListView - Database</item>
+    </string-array>
+
+    <string-array name="months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
 </resources>

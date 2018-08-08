@@ -4,16 +4,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".ListViewStringArrayActivity">
+
     <include
         layout="@layout/toolbar_main"
         android:id="@+id/toolbar"
         />
     <ListView
-        android:id="@+id/types_array"
+        android:id="@+id/month_list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:entries="@array/types_array"
+        android:entries="@array/months_array"
         />
 
 </LinearLayout>
