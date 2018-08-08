@@ -16,6 +16,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ListViewStringArrayActivity"
+            android:label="@string/listview_stringarray" />
+        <activity
+            android:name=".Type2ListViewClassActivity"
+            android:label="@string/listview_class" />
+        <activity
+            android:name=".Type3ListViewDatabaseActivity"
+            android:label="@string/listview_database" />
     </application>
 
 </manifest>
