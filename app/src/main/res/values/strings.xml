@@ -3,11 +3,16 @@
     <string name="listview_stringarray">ListView - StringArray</string>
     <string name="listview_class">ListView - Class</string>
     <string name="listview_database">ListView - Database</string>
+    <string name="recyclerview_class">RecyclerView - Class</string>
+    <string name="listview_customitem_database">ListView - CustomItem - Database</string>
+    CustomItem
 
     <string-array name="types_array">
         <item>ListView - StringArray</item>
         <item>ListView - Class</item>
         <item>ListView - Database</item>
+        <item>RecyclerView - Class</item>
+        <item>ListView - CustomItem - Database</item>
     </string-array>
 
     <string-array name="months_array">

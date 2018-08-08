@@ -37,6 +37,12 @@ public class MainActivity extends AppCompatActivity {
                     case 2:
                         intent = new Intent(getApplicationContext(), Type3ListViewDatabaseActivity.class);
                         break;
+                    case 3:
+                        intent = new Intent(getApplicationContext(), Type4RecyclerViewClassActivity.class);
+                        break;
+                    case 4:
+                        intent = new Intent(getApplicationContext(), Type5ListViewCustomItemDatabaseActivity.class);
+                        break;
                     default:
                         return;
                 }

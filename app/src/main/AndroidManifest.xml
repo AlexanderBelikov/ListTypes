@@ -25,6 +25,13 @@
         <activity
             android:name=".Type3ListViewDatabaseActivity"
             android:label="@string/listview_database" />
+        <activity
+            android:name=".Type4RecyclerViewClassActivity"
+            android:label="@string/recyclerview_class" />
+        <activity
+            android:name=".Type5ListViewCustomItemDatabaseActivity"
+            android:label="@string/listview_customitem_database"
+            />
     </application>
 
 </manifest>
